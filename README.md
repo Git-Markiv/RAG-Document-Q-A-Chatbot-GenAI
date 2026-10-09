@@ -10,8 +10,6 @@
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
 ![Offline Friendly](https://img.shields.io/badge/Works-Offline-brightgreen?style=for-the-badge)
 
-<img src="docs/answer.png" alt="DocMind demo" width="90%"/>
-
 </div>
 
 ---
@@ -102,16 +100,6 @@ python run.py
 Your browser opens at `http://127.0.0.1:8000`. (In VS Code you can also press **F5**.)
 
 ---
-
-## 📸 Screenshots
-
-| Home | Answer with sources |
-|---|---|
-| <img src="docs/home.png" alt="Home"/> | <img src="docs/answer.png" alt="Answer with citations"/> |
-
-| Upload your own documents | Light theme |
-|---|---|
-| <img src="docs/upload.png" alt="Upload"/> | <img src="docs/light.png" alt="Light theme"/> |
 
 ## 🤖 Optional: LLM Answers
 
